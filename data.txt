@@ -1,0 +1,6 @@
+1,1,The Great Gatsby,F. Scott Fitzgerald,1950,3,200
+2,2, Computer Science Today, John Smith,5, 500
+3,3, The Daily News, DD,1, 100
+1,4, "To Kill a Mockingbird", Harper,3, 200
+2,5, "National Geographic", Jane ,2, 500
+3,6, "The New York Times", The New York Times Company,9, 20
